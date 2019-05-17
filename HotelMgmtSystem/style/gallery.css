@@ -1,0 +1,39 @@
+#article
+{
+  color: white;
+  font-family: 'trebuchet ms', sans-serif;
+  font-size:90px;
+  text-align: center;
+  margin: 10px 0px 0px 10px;
+}
+
+#article tr td
+
+{
+   width: 350px;
+   height: 320px;
+}
+
+#article tr td img
+{
+   width: 380px;
+   height: 320px;
+  
+}
+
+
+
+
+#article tr td #grid_span
+
+{
+
+   color: lightsteelblue;
+  width: 340px;
+  font-family: "Times New Roman", Times, serif;
+  font-size:15px;
+  background:grey;
+ 
+  letter-spacing: 0.1em;
+  height:75px;
+}
